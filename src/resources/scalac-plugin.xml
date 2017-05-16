@@ -1,0 +1,4 @@
+<plugin>
+  <name>amorfis</name>
+  <classname>amorfis.AmorfisCompilerPlugin</classname>
+</plugin>
